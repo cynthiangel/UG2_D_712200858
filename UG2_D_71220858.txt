@@ -1,0 +1,19 @@
+print("===============MAKAN===============")
+telurbakar = input("1. Telur Bakar : Rp ")
+leleterbangmasbhe = input("2. Lele Terbang Mas Bhe : Rp ")
+escokelatlembu = input("3. Es Cokelat Lempu : Rp ")
+esdogerlangensari = input("4. Es Doger Langensari : Rp ")
+
+print("===============PESAN===============")
+telurbakar = input("Telur Bakar :  ")
+leleterbang = input("Lele Terbang :  ")
+escokelat = input("Es Cokelat :   ")
+esdoger = input("Es Doger :  ")
+
+print("===============TOTAL===============")
+totaltelurbakar = int(input("TOTAL TELUR BAKAR x 2 : Rp  "))
+totalleleterbang = int(input("TOTAL LELE TERBANG x 1 : Rp "))
+totalescokelat = int(input("TOTAL ES COKELAT x 3 : Rp "))
+totalesdoger = int(input("TOTAL ES DOGER x 1 : Rp  "))
+
+print("Jumlah total yang harus dibayar adalah ")

@@ -1,0 +1,3 @@
+print("Masukkan brand apa saja yang hendak dibeli (pisahkan dengan koma) : H&M, Fendi, LV, Dior, berapa harga barang H&M ?:")
+H&M = (input("Harga H&M Rp. "))
+diskon =  (input("Diskon Rp . 0"))

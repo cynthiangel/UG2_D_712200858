@@ -1,0 +1,11 @@
+nomor_telepon = input("Masukkan Nomor Telepon : ")
+print("Anda menggunakan operator Indosat")
+print("Nomor anda berakhiran genap")
+
+nomor_telepon = input("Masukkan Nomor Telepon : ")
+print("Anda menggunakan operator Telkomsel")
+print("Nomor anda berakhiran ganjil")
+
+nomor_telepon = input("Masukkan Nomor Telepon : ")
+print("Operator anda tidak diketehui")
+print("Nomor anda berakhiran genap")
